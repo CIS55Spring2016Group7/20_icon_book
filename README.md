@@ -1,0 +1,2 @@
+# 20_icon_book
+This is a book consist of 90 pages of 20 images per page. Autistic children use it to communicate. Currently we use printed books. Our special Ed department would like an iPad version but the one that was created does not work like the book. While it may not be the most visually stunning game app its usefulness could be very high. One issue is licensing of the images. Since we would not be selling it we could use the existing.
